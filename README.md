@@ -7,7 +7,7 @@
 ![alt text](Portfolio.png)
 
 
-My Personal [Portfolio](https://thilak1605-portfolio.netlify.app/) Website Featuring Some Of My Projects, Resume, And Technical Skills.
+My Personal [Portfolio](https://tilakg-portfolio.netlify.app/) Website Featuring Some Of My Projects, Resume, And Technical Skills.
 
 ## Built With
 
