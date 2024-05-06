@@ -30,7 +30,7 @@ function AboutCard() {
             </li>
           </ul>
           <p style={{ color: "rgb(155 126 172)"}}>
-            "Don't let anyone else ruin your Life. Be a Man and Ruin it yourself."
+            "Converting 0's and 1's to Full Fledged Programs"
           </p>
           <footer className="blockquote-footer">Me</footer>
         </blockquote>
