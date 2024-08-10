@@ -33,5 +33,3 @@ Clone this repository and ensure you have `node.js` and `git` installed globally
 1. Installation: `npm install`
 2. Run the app in development mode: `npm start`
 3. Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-Give a ⭐ if you like this website!
